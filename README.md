@@ -66,4 +66,4 @@ After the deployment completes:
 
 
 
-[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/20200127/deploy-to-oracle-cloud.svg)](https://console.us-ashburn-1.oraclecloud.com/resourcemanager/stacks/create?region=home&configSourceType=GitHub&configSourceURI=https://github.com/your-repo/oci-cuopt-stack.git)
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/guidin360/nvidia-cuopt-a10/archive/refs/heads/main.zip)
